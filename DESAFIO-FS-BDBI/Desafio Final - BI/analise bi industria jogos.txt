@@ -1,0 +1,19 @@
+
+Análise do BI sobre a Indústria de Jogos
+
+1. Faturamento Total nas Maiores Plataformas:
+   - O gráfico de pizza mostra que o PS2 (PlayStation 2) domina o faturamento com 25,19% do total, seguido de perto pelo Wii com 20,34% e o PS3 com 19,43%.
+   - Isso indica que, durante o período analisado, essas plataformas tiveram um impacto significativo na indústria de jogos, com o PS2 sendo a plataforma mais lucrativa.
+
+2. Média de Faturamento por Gênero:
+   - O gráfico de barras horizontal indica que o gênero "Platform" lidera em termos de média de faturamento, seguido por "Shooter" e "Role-Playing".
+   - Gêneros como "Adventure" e "Strategy" estão na parte inferior, sugerindo que esses tipos de jogos podem ter uma audiência mais nichada ou menor impacto comercial.
+
+3. Soma de Vendas Globais por Ano e Empresa:
+   - O gráfico de barras mostra que em meados de 2005, a Sony Computer Entertainment teve um pico significativo em vendas globais.
+   - A Nintendo também mostra uma tendência de vendas robusta, especialmente em comparação com Microsoft Game Studios.
+   - Isso pode indicar que 2005 foi um ano especialmente forte para a Sony, talvez devido ao lançamento de um jogo ou console popular.
+
+Conclusões:
+- O PS2 foi a plataforma mais lucrativa na indústria de jogos durante o período analisado, o que reflete sua popularidade e a vasta biblioteca de jogos disponíveis.
+- A Sony(Playstation) teve um desempenho excepcional em 2005, o que pode estar relacionado ao lançamento de títulos de grande sucesso ou à popularidade do PS2 e PS3.
